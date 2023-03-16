@@ -98,7 +98,7 @@ const HomePage = () => {
               {(result.score === 0?
                 <p className='text-red-700'>
                   password is weaker than the word weak
-                  :(
+                  
                 </p>:
                 <p></p>
                 )}
