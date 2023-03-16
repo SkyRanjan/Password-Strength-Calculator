@@ -33,7 +33,7 @@ const HomePage = () => {
       <header>
         <h1>
           <div className='bg-teal-400 text-center text-[2rem]'>
-            LET'S CHECK PASSWORD STRENGTH
+            LET'&apos;S CHECK PASSWORD STRENGTH
           </div>
         </h1>
       </header>
